@@ -1,17 +1,14 @@
-Ficheiros e pastas gerados pelo processo de compilação (build)
-Estes ficheiros são recriados sempre que o projeto é compilado.
+
 build/
 app/build/
 
-Ficheiros de configuração local que não devem ser partilhados
-Contêm caminhos específicos da sua máquina e outras informações sensíveis.
+
 local.properties
 .gradle/
 .idea/
 *.iml
 .DS_Store
 
-Ficheiros de log e de análise
 captures/
 *.hprof
 *.pyc
