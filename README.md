@@ -1,9 +1,9 @@
-MedicinApp - Lembrete de Remédios Nativo para Android
+MedicinApp 
 Um aplicativo de lembrete de medicamentos para Android, construído com Kotlin nativo, focado na simplicidade e na fiabilidade para garantir que a dose certa seja tomada na hora certa.
 
 💙 Este projeto nasceu de uma necessidade pessoal e de um profundo carinho: criar uma ferramenta 100% fiável para ajudar os meus pais a gerir os seus medicamentos diários. 
 O MedicinApp não é apenas um software, mas sim uma demonstração de como a tecnologia pode ser usada para cuidar de quem amamos, com uma interface desenhada para ser intuitiva, 
-clara e acessível, especialmente para utilizadores com alguma dificuldade em alarmes que vem pre instalado nos aparelhos.
+clara e acessível, especialmente para utilizadores com alguma dificuldade em alarmes pré-instalados.
 
 🛠️ Tecnologias Utilizadas
 Este projeto foi construído utilizando as tecnologias e arquiteturas mais modernas recomendadas pela Google para o desenvolvimento Android nativo:
