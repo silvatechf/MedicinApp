@@ -6,7 +6,7 @@ O MedicinApp não é apenas um software, mas sim uma demonstração de como a te
 clara e acessível, especialmente para utilizadores com alguma dificuldade em alarmes pré-instalados.
 
 🛠️ Tecnologias Utilizadas
-Este projeto foi construído utilizando as tecnologias e arquiteturas mais modernas recomendadas pela Google para o desenvolvimento Android nativo:
+Este projeto foi construído utilizando as tecnologias e arquiteturas mais modernas para o desenvolvimento Android nativo:
 
 Linguagem: Kotlin
 
